@@ -1,0 +1,7 @@
+Alexandre Rodrigues | FC54472
+	
+Notas: 
+	- O comando getvalues não foi implementado na fase 2.
+	- Por simplicidade o número máximo de clientes inicializados ao mesmo tempo é 10
+	- Quando se apaga o elemento na raíz da árvore, apaga-se a árvore inteira (não era testada esta situação nos testes da fase 1)
+	- O projeto foi testado na máquina virtual "linux-di-fcul-2223-v4"
